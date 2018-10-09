@@ -2,12 +2,17 @@
 Source code for our opensource site showcasting our wiki entries, pipelines and opensource projects.
 https://c13inb.github.io/
 
-# Welcome to the C-13_wiki_demo wiki!
+# Welcome to the C-13 webpage and wiki!
 ![intro](https://farm5.staticflickr.com/4674/24783541397_0aaf0dcf80_z.jpg)  
 
 Repositorio para wiki  y herramientas de los usuarios del MRIlab   
 
 ## Contenido  
+1. Wiki
+1. Pipelines
+1. Tutoriales
+1.
+
 ## `/home` ¿Qué es y cómo se usa?
 Si bien `/home` guarda las configuraciones individuales de cada usuario el respaldo de los datos, como las imágenes debe realizarse en un directorio diferente, con el fin de mejorar el uso del cluster. Información  [aquí](https://github.com/rcruces/C-13_wiki_demo/wiki).
 
@@ -64,7 +69,7 @@ Links externos con diversas herramientas.
 Links externos con diversas herramientas.
 
 
-# Tutoriales para anexar despues
+# Tutoriales
 ## Grosor Cortical  
 [freesurfer](https://github.com/rcruces/MRI_analytic_tools/tree/master/Freesurfer_preprocessing)
   
