@@ -4,7 +4,7 @@ https://c13inb.github.io/
 
 # NOTA  
 la Wiki actualmente se encuentra en la pestaña Wiki del repositorio de github en esta dirección:  
-> https://github.com/c13inb/c13inb.github.io/wiki  
+> [https://github.com/c13inb/c13inb.github.io/wiki](https://github.com/c13inb/c13inb.github.io/wiki)  
   
 Próximamente esperamos subirla a este dominio de `html`
 
