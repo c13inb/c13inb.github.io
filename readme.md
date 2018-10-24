@@ -2,6 +2,12 @@
 Source code for our opensource site showcasting our wiki entries, pipelines and opensource projects.
 https://c13inb.github.io/
 
+# NOTA  
+la Wiki actualmente se encuentra en la pestaña Wiki del repositorio de github en esta dirección:  
+> https://github.com/c13inb/c13inb.github.io/wiki  
+  
+Próximamente esperamos subirla a este dominio de `html`
+
 # Welcome to the MRIlab webpage and wiki!
 ![intro](https://farm5.staticflickr.com/4674/24783541397_0aaf0dcf80_z.jpg)  
 Repositorio para wiki  y herramientas de los usuarios del MRIlab   
