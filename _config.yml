@@ -1,2 +1,26 @@
-theme: jekyll-theme-slate
-timezone: TIMEZONE
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Brain Connectivity Laboratory
+tagline:          'A Jekyll theme'
+description:      'Source code for our opensource site showcasting our wiki entries, pipelines and opensource projects. Featuring our <a href="https://github.com/c13inb/c13inb.github.io/wiki" target="_blank">MRI-Wiki</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Luis Concha'
+  url:            http://personal.inb.unam.mx/lconcha/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/c13inb
