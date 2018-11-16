@@ -7,14 +7,15 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            CBL C13
+title:            MRIlab Group
 tagline:          'Brain Connectivity Laboratory'
 description:      'Source code for our opensource site showcasting our wiki entries, pipelines and opensource projects. Featuring our <a href="https://github.com/c13inb/c13inb.github.io/wiki" target="_blank">MRI-Wiki</a>.'
-url:              http://hyde.getpoole.com
+avatar:           https://github.com/c13inb/c13inb.github.io/tree/master/images/brain_icon.png
+url:              https://github.com/c13inb
 baseurl:          /
 
 author:
-  name:           'Luis Concha'
+  name:           'RRC'
   url:            http://personal.inb.unam.mx/lconcha/
 
 paginate:         5
