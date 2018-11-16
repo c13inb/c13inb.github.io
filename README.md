@@ -13,9 +13,8 @@ https://c13inb.github.io/
 
 
 ## Introduction to MRI-lab: The Survival Kit  
+Welcome to the MRIlab website, here you can find useful links for better understanding of proper use of the cluster and introductory information for computational analysis (MRI, histology, etc).
 
-
-Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
 
 
 ## Wiki MRIlab  
@@ -23,8 +22,12 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website on which users collabo
 This wiki is made and updated by all the members of the MRIlab and for all of us.
 
 
-## External tutorials  
-[BATMAN](http://www.miccai.org/edu/finalists/BATMAN_trimmed_tutorial.pdf) Basic and Advanced Tractography with MRtrix for All Neurophiles
+## External tutorials and interesting links  
+[BATMAN](http://www.miccai.org/edu/finalists/BATMAN_trimmed_tutorial.pdf) Basic and Advanced Tractography with MRtrix for All Neurophiles  
+[R for data science](https://r4ds.had.co.nz/index.html) The website for "R for data science", an interesting book with examples and visualizations.  
+[R graph gallery](https://www.r-graph-gallery.com) Hundreds of distinctive graphics made with R.  
+[Connectopedia](http://www.fmritools.com/kdb/index.html?fbclid=IwAR1Cqmfth-2c8cXBcKYmhN6-YFTLf_1kF7-vxwVg_ZDMiAD4qX-bIeJqzl0) Connectopedia Explorer, the Interactive Atlas of Human Brain Anatomy, Vasculature and Functions.   
+[Atlases/resources](http://www.lead-dbs.org/helpsupport/knowledge-base/atlasesresources)  LEAD-DBS a list of useful human and macaque atlases cortical and subcortical.  
 
 ## MRI art  
 As a proof of our enthusiastic creativity you can find some artistic representations of our work performed by our lab members on this [post]().
