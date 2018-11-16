@@ -1,7 +1,10 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1>
+      <a>
+        <img src="https://github.com/c13inb/c13inb.github.io/tree/master/images/brain_icon.png" width="300" height="250" />
+      </a>
+      <h1 align="left">
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
@@ -25,9 +28,16 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <a class="sidebar-nav-item" href="{{ https://github.com/c13inb/c13inb.github.io/wiki }}">Wiki</a>
+      <a class="sidebar-nav-item" href="https://github.com/c13inb/c13inb.github.io/wiki">Wiki</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Gallery</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub page</a>
+
+        <section class="meta">
+          <a href="{{ site.github.owner_url }}" target="_blank" title="Follow me on GitHub" aria-label="Follow me on GitHub"><i class="fa fa-github"></i></a>
+          <a href="https://twitter.com/{{ site.twitter }}" target="_blank" title="Follow me on Twitter" aria-label="Follow me on Twitter"><i class="fa fa-twitter"></i></a>
+          <a href="/atom.xml" title="Atom RSS feed" aria-label="Atom RSS feed"><i class="fa fa-rss"></i></a>
+      </section>
+
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
