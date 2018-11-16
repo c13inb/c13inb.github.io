@@ -7,8 +7,8 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Brain Connectivity Laboratory
-tagline:          'A Jekyll theme'
+title:            CBL C13
+tagline:          'Brain Connectivity Laboratory'
 description:      'Source code for our opensource site showcasting our wiki entries, pipelines and opensource projects. Featuring our <a href="https://github.com/c13inb/c13inb.github.io/wiki" target="_blank">MRI-Wiki</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
@@ -20,7 +20,6 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
 
 github:
   repo:           https://github.com/c13inb
