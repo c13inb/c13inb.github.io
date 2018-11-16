@@ -21,7 +21,7 @@ Welcome to the MRIlab website, here you can find useful links for better underst
 
 
 
-## Wiki MRIlab  
+## Wiki MRI-lab  
 A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website on which users collaboratively modify content and structure directly from the web browser. Thus, our MRI-Wiki aim is to maintain updated content for the cluster usage, MRI analysis and other computational tools of interest.  
 This wiki is made and updated by all the members of the MRIlab and for all of us.
 

@@ -1,9 +1,9 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+    <a href="/" aria-label="Avatar">
+       <img src="{{ site.github.owner_gravatar_url }}?s=150" height="150" width="150" class="avatar" />
+   </a>
     <div class="sidebar-about" align="justify">
-      <figure>
-        <img src="{{ site.baseurl }}images/brain_icon.png" width="300" height="250">
-      </figure>
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
@@ -29,7 +29,6 @@
         {% endif %}
       {% endfor %}
       <a class="sidebar-nav-item" href="https://github.com/c13inb/c13inb.github.io/wiki">Wiki</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Gallery</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub page</a>
 
         <section class="meta">
