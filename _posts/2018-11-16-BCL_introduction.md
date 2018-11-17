@@ -2,7 +2,7 @@
 layout: post
 title: Brain Connectivity Laboratory
 ---
-![](images/baner.png)
+![](../images/baner.png)
 
 Source code for our opensource site showcasting our wiki entries, pipelines and opensource projects.  
 
