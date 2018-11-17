@@ -2,7 +2,7 @@
 layout: post
 title: Brain Connectivity Laboratory
 ---
-
+![](images/baner.png)
 
 Source code for our opensource site showcasting our wiki entries, pipelines and opensource projects.  
 
@@ -23,7 +23,7 @@ Welcome to the MRIlab website, here you can find useful links for better underst
 
 ## Wiki MRI-lab  
 A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website on which users collaboratively modify content and structure directly from the web browser. Thus, our MRI-Wiki aim is to maintain updated content for the cluster usage, MRI analysis and other computational tools of interest.  
-This wiki is made and updated by all the members of the MRIlab and for all of us.
+This wiki is made and updated by all the members of the MRI-lab and for all of us.
 
 
 ## External tutorials and interesting links  

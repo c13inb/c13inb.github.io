@@ -3,18 +3,30 @@ layout: page
 title: Gallery
 ---
 
-# Brain Imaging Gallery  
+<html>
+<head>
+<meta charset="utf-8" />
+<title>MRI art</title>
+
+<h1> Brain Imaging Gallery </h1>
 As a proof of our enthusiastic creativity you can find some artistic representations of our work performed by our lab members  
 
 
-## Sagital Brain Tractography  
+<h1> Sagital Brain Tractography </h1>
 Winning photo of the "Scientific Photography Contest 2014" by Guadalupe Gomar  
-![](images/img_lupita.png)  
+<figure>
+<img src="images/img_lupita.png">
+</figure>
 
-##  Axial Hippocampus and fornix  
+<h1> Axial Hippocampus and fornix </h1>
 Tractography of hippocampus and fornix of an axial section of the brain by Raúl RC  
-![](images/img_raul.png)  
+<figure>
+<img src="images/img_raul.jpg">
+</figure>
 
-## Brain  
-by Alfonso Fajardo  
-![](images/img_alfonso.png)  
+
+<h1> Brain </h1>
+by Alfonso Fajardo
+<figure>
+<img src="images/img_alfonso.png">
+</figure>
