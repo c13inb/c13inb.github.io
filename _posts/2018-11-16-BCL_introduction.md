@@ -34,9 +34,9 @@ This wiki is made and updated by all the members of the MRI-lab and for all of u
 [Atlases/resources](http://www.lead-dbs.org/helpsupport/knowledge-base/atlasesresources)  LEAD-DBS a list of useful human and macaque atlases cortical and subcortical.  
 
 ## MRI art  
-As a proof of our enthusiastic creativity you can find some artistic representations of our work performed by our lab members on this [post]().
+As a proof of our enthusiastic creativity you can find some artistic representations of our work performed by our lab members on this [post](https://github.com/c13inb/c13inb.github.io/blob/master/gallery.md).
 
 
 ## C13 Friends  
 [Laboratorio de imagen funcional cerebral](https://www.facebook.com/imagenfuncionalcerebral/)  
-[Facebook](https://www.facebook.com/conectividadcerebral/)  
+[Laboratorio de Conectividad cerebral](https://www.facebook.com/conectividadcerebral/)  
