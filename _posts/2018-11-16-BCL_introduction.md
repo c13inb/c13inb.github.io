@@ -9,21 +9,21 @@ Source code for our opensource site showcasting our wiki entries, pipelines and 
 
 ## Contents
 
-- [MRI introduction](#introduction)
-- [Wiki MRIlab](#wiki)
-- [External tutorials](#external)
-- [MRI art](#author)
-- [C-13 Friends](#license)
+- [MRI introduction](#introductiontomrilab:)
+- [Wiki MRIlab](#wikimrilab)
+- [External tutorials](#externaltutorialsandinterestinglinks)
+- [MRI art](#mriart)
+- [C-13 Friends](#c13friends)
 
 
-## Introduction to MRI-lab: The Survival Kit  
+## Introduction to MRI lab: The Survival Kit  
 Welcome to the MRIlab website, here you can find useful links for better understanding of proper use of the cluster and introductory information for computational analysis (MRI, histology, etc).
 
 
 
-## Wiki MRI-lab  
+## Wiki MRI lab  
 A [wiki](https://en.wikipedia.org/wiki/Wiki) is a website on which users collaboratively modify content and structure directly from the web browser. Thus, our MRI-Wiki aim is to maintain updated content for the cluster usage, MRI analysis and other computational tools of interest.  
-This wiki is made and updated by all the members of the MRI-lab and for all of us.
+This wiki is made and updated by all the members of the MRI-lab and for all of us. [MRI-wiki](https://github.com/c13inb/c13inb.github.io/wiki) lives inside this website repository on the *github-wiki page*.
 
 
 ## External tutorials and interesting links  
@@ -37,6 +37,6 @@ This wiki is made and updated by all the members of the MRI-lab and for all of u
 As a proof of our enthusiastic creativity you can find some artistic representations of our work performed by our lab members on this [post]().
 
 
-## C-13 Friends  
-
+## C13 Friends  
+[Laboratorio de imagen funcional cerebral](https://www.facebook.com/imagenfuncionalcerebral/)
 [Facebook](https://www.facebook.com/conectividadcerebral/)
