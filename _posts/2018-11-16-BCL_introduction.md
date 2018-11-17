@@ -38,5 +38,5 @@ As a proof of our enthusiastic creativity you can find some artistic representat
 
 
 ## C13 Friends  
-[Laboratorio de imagen funcional cerebral](https://www.facebook.com/imagenfuncionalcerebral/)
-[Facebook](https://www.facebook.com/conectividadcerebral/)
+[Laboratorio de imagen funcional cerebral](https://www.facebook.com/imagenfuncionalcerebral/)  
+[Facebook](https://www.facebook.com/conectividadcerebral/)  
