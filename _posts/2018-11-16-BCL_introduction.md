@@ -9,11 +9,11 @@ Source code for our opensource site showcasting our wiki entries, pipelines and 
 
 ## Contents
 
-- [MRI introduction](#introductiontomrilab:)
-- [Wiki MRIlab](#wikimrilab)
-- [External tutorials](#externaltutorialsandinterestinglinks)
-- [MRI art](#mriart)
-- [C-13 Friends](#c13friends)
+- [MRI introduction](#introduction-to-mri-lab-the-survival-kit)
+- [Wiki MRIlab](#wiki-mri-lab)
+- [External tutorials](#external-tutorials-and-interesting-links)
+- [MRI art](#mri-art)
+- [C-13 Friends](#c13-friends)
 
 
 ## Introduction to MRI lab: The Survival Kit  
@@ -38,5 +38,5 @@ As a proof of our enthusiastic creativity you can find some artistic representat
 
 
 ## C13 Friends  
-[Laboratorio de imagen funcional cerebral](https://www.facebook.com/imagenfuncionalcerebral/)
-[Facebook](https://www.facebook.com/conectividadcerebral/)
+[Laboratorio de imagen funcional cerebral](https://www.facebook.com/imagenfuncionalcerebral/)  
+[Facebook](https://www.facebook.com/conectividadcerebral/)  
