@@ -19,14 +19,20 @@ Winning photo of the "Scientific Photography Contest 2014" by Guadalupe Gomar
 </figure>
 
 <h1> Axial Hippocampus and fornix </h1>
-Tractography of hippocampus and fornix of an axial section of the brain by Raúl RC  
+Tractography of hippocampus and fornix of an axial section of the brain by Raúl RC. 2015.  
 <figure>
 <img src="https://c13inb.github.io/images/img_raul.jpg">
 </figure>
 
 
 <h1> Brain </h1>
-by Alfonso Fajardo
+by Alfonso Fajardo. 2018
 <figure>
 <img src="https://c13inb.github.io/images/img_alfonso.png">
+</figure>
+
+
+<h1> pathways of epilepsy </h1>
+<figure>
+<img src="https://c13inb.github.io/images/brain_icon.png">
 </figure>
