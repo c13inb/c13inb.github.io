@@ -50,3 +50,12 @@ by Omar Narvaez </h2>
 <img src="https://c13inb.github.io/images/narvaez_red_jpg.jpg">
 </figure>
 
+<h2> Reconstruction of cortical surface of Rhesus monkey 
+by Pam García
+</h2>
+<figure>
+<img src="https://c13inb.github.io/images/pam_monkeyCortex.PNG">
+</figure>
+
+
+
