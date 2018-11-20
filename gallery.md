@@ -40,5 +40,5 @@ by Alfonso Fajardo. 2018
 <h2> brain tractography 
 by Omar Narvaez </h2>
 <figure>
-<img src="https://c13inb.github.io/images/narvaez_frame554.png">
+<img src="c13inb.github.io/images/narvaez_frame554.png">
 </figure>
