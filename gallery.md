@@ -36,3 +36,9 @@ by Alfonso Fajardo. 2018
 <figure>
 <img src="https://c13inb.github.io/images/brain_icon.png">
 </figure>
+
+<h2> brain tractography 
+by Omar Narvaez </h2>
+<figure>
+<img src="https://c13inb.github.io/images/narvaez_frame554.png">
+</figure>
