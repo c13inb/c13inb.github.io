@@ -4,7 +4,9 @@ title: Brain Connectivity Laboratory
 ---
 ![](../images/baner.png)
 
-Source code for our opensource site showcasting our wiki entries, pipelines and opensource projects.  
+This is the landing page for members of the [C13 lab](http://personal.inb.unam.mx/lconcha/people.html) at the [Institute of Neurobiology](http://www.inb.unam.mx/index.html) at the [Universidad Nacional Autónoma de México](https://www.unam.mx/), [Campus Juriquilla](http://www.campusjuriquilla.unam.mx/cosaj/).
+
+It contains important information on how we work here, and links to the tools of the trade.
 
 
 ## Contents
