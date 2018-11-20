@@ -44,7 +44,7 @@ by Omar Narvaez </h2>
 </figure>
 
 
-<h2> Axon segmentation with [AxonSeg](https://github.com/neuropoly/axonseg) - optic nerve
+<h2> Axon segmentation of optic nerve with <a href="https://github.com/neuropoly/axonseg">AxonSeg</a>
 by Omar Narvaez </h2>
 <figure>
 <img src="https://c13inb.github.io/images/narvaez_red_jpg.jpg">
