@@ -11,6 +11,23 @@ title: Gallery
 <h1> Brain Imaging Gallery </h1>
 As a proof of our enthusiastic creativity you can find some artistic representations of our work performed by our lab members  
 
+```HTME
+<h2> Resting state networkS </h2>
+```
+
+By Alfonso Fajardo. 2019
+
+```HTML
+<figure>
+<img src="https://c13inb.github.io/images/imagen_alfonso2.png">
+</figure>
+
+```
+
+
+
+
+
 
 <h2> Sagital Brain Tractography </h2>
 Winning photo of the "Scientific Photography Contest 2014" by Guadalupe Gomar  
