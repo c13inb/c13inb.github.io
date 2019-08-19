@@ -11,7 +11,7 @@ title: Gallery
 <h1> Brain Imaging Gallery </h1>
 As a proof of our enthusiastic creativity you can find some artistic representations of our work performed by our lab members  
 
-<h2> Resting state networks </h2>
+<h2> Resting State Networks </h2>
 
 By Alfonso Fajardo. 2019
 <figure>
