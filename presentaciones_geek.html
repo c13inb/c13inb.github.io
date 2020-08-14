@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Luis Concha">
+  <title>Presentaciones geek</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/theme/black.css" id="theme">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Presentaciones geek</h1>
+  <p class="author">Luis Concha</p>
+</section>
+
+<section id="pandoc" class="slide level1">
+<h1>Pandoc</h1>
+<ul>
+<li>Es posible generar presentaciones con markdown usando <a href="https://pandoc.org/">pandoc</a>.</li>
+<li>Se convierte el archivo <code>.md</code> a una presentación html.</li>
+<li>Soporta <code>s5</code>, <code>slidy</code>, <code>slideous</code>, <code>dzslides</code> y el sexy <code>revealjs</code>.</li>
+<li>También soporta <code>pdf</code> mediante <code>beamer</code>!. <img data-src="https://i.loli.net/2018/02/21/5a8d775f73d87.png" alt="pandoc" /></li>
+</ul>
+</section>
+<section id="reglas-del-.md" class="slide level1">
+<h1>Reglas del <code>.md</code></h1>
+<ul>
+<li>Básicamente, seguir las reglas de markdown, usando bullet points.</li>
+<li>Los bullet points se indican con <code>-</code></li>
+<li>Los niveles <code>#</code> indican nueva diapositiva.</li>
+<li>También se puede indicar nueva diapositiva con <code>---------</code></li>
+<li>Instrucciones completas <a href="https://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc">aquí</a>.</li>
+</ul>
+</section>
+<section id="ejemplo" class="slide level1">
+<h1>Ejemplo</h1>
+<pre><code>---
+title: Presentaciones geek
+author: Luis Concha
+---
+
+# Pandoc
+- Es posible generar presentaciones con markdown usando [pandoc](https://pandoc.org/).
+- Se convierte el archivo `.md` a una presentación html.
+- Soporta `s5`, `slidy`, `slideous`, `dzslides` y el sexy `revealjs`.
+- También soporta `pdf` mediante `beamer`!.
+![pandoc](https://i.loli.net/2018/02/21/5a8d775f73d87.png)
+
+# Reglas del `.md`
+- Básicamente, seguir las reglas de markdown, usando bullet points.
+- Los bullet points se indican con `-`
+- Los niveles `#` indican nueva diapositiva.
+- También se puede indicar nueva diapositiva con `---------`
+- Instrucciones completas [aquí](https://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc).</code></pre>
+</section>
+<section id="conversión-de-.md-a-html" class="slide level1">
+<h1>Conversión de <code>.md</code> a <code>html</code></h1>
+<pre><code>pandoc -t FORMAT -s miarchivo.md -o mipresentacion.html</code></pre>
+<ul>
+<li>Donde <code>FORMAT</code> debe ser uno de <code>s5</code>, <code>slidy</code>, <code>slideous</code>, <code>dzslides</code> o <code>revealjs</code>.</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<ul>
+<li><code>FORMAT</code> también puede ser <code>beamer</code>, pero en ese caso el output debe tener la extensión <code>pdf</code></li>
+<li>Se puede indicar un <em>theme</em> de <code>beamer</code>:</li>
+</ul>
+<pre><code>pandoc -t beamer -s miarchivo.md -V theme=Madrid mipresentacion.pdf</code></pre>
+<ul>
+<li><a href="https://hartwork.org/beamer-theme-matrix/">Aquí</a> hay una galería de temas para beamer.</li>
+</ul>
+</section>
+<section id="conversión-a-.pptx" class="slide level1">
+<h1>Conversión a <code>.pptx</code></h1>
+<ul>
+<li>Se puede convertir a power point!</li>
+</ul>
+<pre><code>pandoc miarchivo.md -o mipresentacion.pptx</code></pre>
+</section>
+<section id="cosas-que-aún-no-comprendo" class="slide level1">
+<h1>Cosas que aún no comprendo</h1>
+<ul>
+<li>Controlar el tamaño de las imágenes.</li>
+<li>Los diferentes formatos de salida html tienen opciones distintas y manejan el encabezado (título, autor) de manera diferente.</li>
+<li>Cómo hacer que un bullet-point largo quepa en una sola diapo.</li>
+</ul>
+</section>
+<section id="opinión-personal" class="slide level1">
+<h1>Opinión personal:</h1>
+<ul>
+<li>Útil para presentaciones que contienen código y <strong>tutoriales</strong>.</li>
+<li>Difícil hacer que se vea <em>exactamente como quiero</em> .</li>
+<li>Menos utilidad para presentaciones científicas (no geek).</li>
+</ul>
+</section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@^4//dist/reveal.js"></script>
+
+  // reveal.js plugins
+  <script src="https://unpkg.com/reveal.js@^4//plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>
